@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirebaseDemo</string>
+    <string name="enter_course_here">Enter Course here</string>
+    <string name="enter_name_here">Enter Name here</string>
+    <string name="enter_url_here">Enter URL here</string>
+    <string name="insert">Insert</string>
+    <string name="enter_email_here">Enter email here</string>
+</resources>
